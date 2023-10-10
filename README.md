@@ -3,7 +3,8 @@ Source code for Crosshair Lab, a free open-source custom crosshair application w
 
 # Requirements
 Python 3.8.0 (TESTED ON, MAY WORK ON OTHER VERSIONS)
-Pyqt5 (COMMAND: pip install PyQt5)
+
+Pyqt5 (COMMAND: pip install PyQt5) AND ADD py.exe TO PATH
 
 # This is a free open source software
 If you use it for one of your projects, sweet! Just keep the name as Crosshair Lab and provide a link 
