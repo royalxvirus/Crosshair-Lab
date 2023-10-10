@@ -1,0 +1,4 @@
+Size: 25
+Width: 3
+Color: 0, 122, 204
+Design: 1
