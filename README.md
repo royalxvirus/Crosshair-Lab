@@ -13,3 +13,5 @@ to our discord (dsc.gg/crosshairlab) and our website (https://crosshairlab.royal
 If you sell the software, modify it and still give credit
 
 If any of these rules are broken, a DMCA report will be filed. If you still don't comply, then I will persue legal action
+
+GIVE CREDS
