@@ -1,5 +1,5 @@
 # Crosshair-Lab
-Source code for Crosshair Lab, a free open-source custom crosshair application with many features!
+Free, clean, open source custom crosshair software written in python using PyQt5!
 
 # Requirements
 Python 3.8.0 (TESTED ON, MAY WORK ON OTHER VERSIONS)
